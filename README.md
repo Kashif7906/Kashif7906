@@ -75,7 +75,7 @@ Hello stranger! my name is Mohd Kashif Jamal and I am a Full Stack Developer, pa
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tushit99&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kashif7906&theme=react-dark&hide_border=true" /></a>
 
 
 <br> 
