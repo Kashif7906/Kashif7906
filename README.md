@@ -30,7 +30,7 @@ Hello stranger! my name is Mohd Kashif Jamal and I am a Full Stack Developer, pa
 
 - ⚡ Fun Fact: Imagination is more important than knowledge 
 
-- 💬 Have a look at my [Portfolio](https://tushitsaxena.netlify.app) 
+- 💬 Have a look at my [Portfolio](https://kashif7906.github.io/) 
 
 
 
