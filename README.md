@@ -9,8 +9,9 @@ Hello stranger! my name is Mohd Kashif Jamal and I am a Full Stack Developer, pa
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kashif7906&label=Profile%20views&color=0e75b6&style=flat" alt="Kashif7906" /> </p>
 
    <p align="center" color:"red">
+  
+  
    <a href="https://github.com/Kashif7906/readme-typing-svg">
-    
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Mohd Kashif Jamal 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
