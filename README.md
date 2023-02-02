@@ -25,8 +25,6 @@ Hello stranger! my name is Mohd Kashif Jamal and I am a Full Stack Developer, pa
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
 - 📫 Reach me on **kashifjamal30@gmail.com**
-- [gmail](kashifjamal30@gmail.com)
-
 
 - 💬 ask me about anything, i am happy to help 
 
